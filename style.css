@@ -1,0 +1,25 @@
+body
+{
+    background-color:#BBDEFB;
+    text-align:center;
+}
+button
+{
+    padding:5px;
+    border-radius:5px;
+    background-color:#C5E1A5;
+    font-family:'Oswald', sans-serif;
+    font-size:15px;
+}
+#bigimg
+{
+    width:300px;
+}
+h1
+{
+    font-family:'Oswald', sans-serif;
+}
+h2
+{
+    font-family:'Oswald', sans-serif;
+}
