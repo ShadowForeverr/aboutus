@@ -1,6 +1,6 @@
 body
 {
-    background-color:#BBDEFB;
+     background:linear-gradient(#0088ff, #ff0000);
     text-align:center;
 }
 #bigimg
@@ -10,8 +10,10 @@ body
 h1
 {
     font-family:'Oswald', sans-serif;
+    font-color:rgb(255, 255, 255);
 }
 h2
 {
     font-family:'Oswald', sans-serif;
+    font-color:rgb(255, 255, 255);
 }
